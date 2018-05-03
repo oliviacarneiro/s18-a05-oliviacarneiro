@@ -1,0 +1,8 @@
+Q1: There was 266980 crimes.
+Q2: There was 98.70023859889876 crimes per 1000 persons.
+Q3: The tree most common crimes THEFT (64221), BATTERY (49200) and CRIMINAL DAMAGE (29027)
+The tree less common crimes PUBLIC INDECENCY (10), HUMAN TRAFFICKING (8) and NON-CRIMINAL (SUBJECT SPECIFIED) (2)
+And the highest arrestment rate (all 100%): PROSTITUTION, PUBLIC INDECENCY, GAMBLING, LIQUOR LAW VIOLATION.
+Q4: NARCOTICS is most likely to result in arrest among those crimes with more then a thousand occurences.
+Q5: The community area with the most homicides in 2017 is the #25 (Austin), with 81 cases.
+Q6: There were 0.09134017529402952 (9%) of the crimes involving a weapon.
